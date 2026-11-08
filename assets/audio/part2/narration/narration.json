@@ -1,0 +1,60 @@
+{
+  "female": {
+    "voice": "af_heart",
+    "lines": {
+      "p01": {
+        "text": "Every island has its own world...",
+        "speech": 1.967
+      },
+      "p02": {
+        "text": "But what if these worlds could share what they know?",
+        "speech": 2.437
+      },
+      "p03": {
+        "text": "Data sharing allows information to move between systems.",
+        "speech": 4.011
+      },
+      "p04": {
+        "text": "Interoperability helps different systems understand and use that information.",
+        "speech": 5.227
+      },
+      "p05": {
+        "text": "Different systems. Shared data. One connected world.",
+        "speech": 3.646
+      },
+      "p06": {
+        "text": "Visit us at the Data Sharing and Interoperability booth. Meet us at DSI!",
+        "speech": 5.269
+      }
+    }
+  },
+  "male": {
+    "voice": "bm_george",
+    "lines": {
+      "p01": {
+        "text": "Every island has its own world...",
+        "speech": 2.773
+      },
+      "p02": {
+        "text": "But what if these worlds could share what they know?",
+        "speech": 3.069
+      },
+      "p03": {
+        "text": "Data sharing allows information to move between systems.",
+        "speech": 4.608
+      },
+      "p04": {
+        "text": "Interoperability helps different systems understand and use that information.",
+        "speech": 6.08
+      },
+      "p05": {
+        "text": "Different systems. Shared data. One connected world.",
+        "speech": 4.325
+      },
+      "p06": {
+        "text": "Visit us at the Data Sharing and Interoperability booth. Meet us at DSI!",
+        "speech": 6.101
+      }
+    }
+  }
+}
